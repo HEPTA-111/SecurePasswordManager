@@ -1,6 +1,6 @@
 # Secure Password Manager
 
-This is a simple but secure web-based password manager application built with Python and Flask. It is designed to meet the requirements for the B207 Cyber Security final project.
+This is a simple but secure web-based password manager application built with Python and Flask. |
 
 ## Core Security Features
 
